@@ -5,4 +5,4 @@
  
 - Covid Dashbaord.py : Using Disease.sh API and streamlit dashabord creation 
   - This was a test and learning project just to understand steamlit dashboard making for future projects
-  - Running dashabord.py shows a dahsboard with covid deaths, total infected from 2020 to 2023. 
+  - Running dashabord.py shows a dashsboard with covid deaths, total infected from 2020 to 2023. 
